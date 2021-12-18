@@ -2,7 +2,7 @@
 All Source Code for myCalander, a website created by Abdulla Habeeb, Rhett Mobley, Phillip Rankin, Jonathan Fonseca
 
 To start the site, once you have added the EventCalendar folder to your htdocs, go to localhost/EventCalendar/login.php
-
+WE hosted thsusing an XAMPP localserver, so add the SQL queries toa table specific to your files to run it.
 Then, click the "Sign Up Now" button, create an account using any username and password you like. Then login using that username and password. From there you can go to calendar and add, delete, and edit events as you like.
 
 The major functionalities of the site include: creating an account, changing your password, creating a calendar tied to your account where you can add, edit, or delete events. This calendar will be saved to your account.
